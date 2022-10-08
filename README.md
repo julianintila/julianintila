@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![MasterHead](https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif)
 <h1 align="center">Hi 👋, I'm Julian Intila</h1>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9b919a61c6f91cddc3afcad2dc101ce0/tumblr_o7vrxl8Uk11runoqyo2_540.gif">
