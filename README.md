@@ -81,7 +81,7 @@ I build for the web and enjoy experimenting with **HTML, CSS, JavaScript**, and 
 
 <div align="center">
 
-### 💻 Keep Coding · Keep Learning · Build Something Great
+### 💻 SCUBAAAAAAAAAAAAAAA
 
 *Thanks for stopping by!*
 
