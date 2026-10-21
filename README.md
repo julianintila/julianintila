@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Julian Intila
 
-### Web Developer · Lifelong Learner · Problem Solver
+###  Software Developer ·
 
 I build for the web and enjoy experimenting with **HTML, CSS, JavaScript**, and modern development tools.
 
