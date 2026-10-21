@@ -71,7 +71,7 @@ I build for the web and enjoy experimenting with **HTML, CSS, JavaScript**, and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianintila&show_icons=true&hide_border=true&theme=tokyonight" alt="Julian's GitHub statistics" />
+  <img height="180" src="[https://github-readme-stats.vercel.app/api?username=julianintila&show_icons=true&hide_border=true&theme=tokyonight](https://github-stats-extended.vercel.app/api?username=julianintila&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)" alt="Julian's GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianintila&layout=compact&hide_border=true&theme=tokyonight" alt="Julian's most-used languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianintila&hide_border=true&theme=tokyonight" alt="Julian's GitHub contribution streak" />
